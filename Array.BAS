@@ -1,5 +1,6 @@
 DIM NUM(10)
 RANDOMIZE TIME*10
+PRINT "Array original: "
 FOR I = 1 TO 10
 
    LET NUM(I) = INT (100*RND+1)
@@ -34,7 +35,7 @@ FOR I = 1 TO 10
       NEXT J
    END IF
 NEXT I
-PRINT ""
+PRINT "Array modificado: "
 FOR I = 1 TO 10 
    PRINT NUM(I)
 NEXT I
