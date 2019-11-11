@@ -26,11 +26,12 @@ Para añadir colaboradores hay que hacer click en la pestaña *Settings* y selec
 
 ## Miembros del grupo
 
-Escribe aquí los miembros del grupo. El primero es el representante o encargado.
+Escribe aquí los miembros del grupo. 
 
-* Iván Torres De Oses
-* Jose Antonio Rosales Girón
-* Víctor Gallardo Luque
+* [Víctor Gallardo Luque](https://github.com/VictorGallardo)
+* [Iván Torres De Oses](https://github.com/IvanTorres21)
+* [Jose Antonio Rosales Girón](https://github.com/joseantoniorosales)
+
 
 ## Lenguaje de programación
 
