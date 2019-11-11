@@ -45,7 +45,12 @@ Los papelitos se han recortado de este [documento](lenguajes_de_programacion.pdf
 
 ## Información sobre el lenguaje
 
-Busca páginas y/o manuales sobre el lenguaje de programación elegido. Escribe aquí las principales características: cuándo y para qué se creó, en qué ámbito se utiliza, cuáles son sus principales ventajas, etc. Pon aquí enlaces y capturas de pantalla.
+Es un lenguaje de uso general de alto nivel, fue creado en 1964 por Hohn G. Kemeny y Thomas E. Kurthx. 
+
+El objetivo del lenguaje es permitir que cualquiera pudiese aprender a programar.
+
+La ventaja que tiene es que es un lenguaje muy sencillo de entender gracias a la 
+gran similitud con el ingles y sencilla sintáxis.
 
 ## Herramientas de desarrollo
 
