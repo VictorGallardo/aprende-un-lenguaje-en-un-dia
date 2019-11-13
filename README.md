@@ -54,7 +54,7 @@ gran similitud con el ingles y sencilla sintáxis.
 
 ## Herramientas de desarrollo
 
-Indica aquí qué software has tenido que instalar para programar en este lenguaje. Añade enlaces y/o capturas de pantalla.
+La herramienta que hemos usado para realizar los ejercicios es DecimalBasic.
 
 ## Poniendo en práctica el lenguaje
 
