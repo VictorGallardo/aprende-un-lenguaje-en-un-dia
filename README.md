@@ -45,7 +45,7 @@ Los papelitos se han recortado de este [documento](lenguajes_de_programacion.pdf
 
 ## Información sobre el lenguaje
 
-Es un lenguaje de uso general de alto nivel, fue creado en 1964 por Hohn G. Kemeny y Thomas E. Kurthx. 
+Es un lenguaje de uso general de alto nivel, fue creado en 1964 por John G. Kemeny y Thomas E. Kurthx. 
 
 El objetivo del lenguaje es permitir que cualquiera pudiese aprender a programar.
 
