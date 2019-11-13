@@ -47,10 +47,11 @@ Los papelitos se han recortado de este [documento](lenguajes_de_programacion.pdf
 
 Es un lenguaje de uso general de alto nivel, fue creado en 1964 por John G. Kemeny y Thomas E. Kurthx. 
 
-El objetivo del lenguaje es permitir que cualquiera pudiese aprender a programar.
+El objetivo del lenguaje es permitir que cualquiera pudiese aprender a programar, ya que en la época en la que se creo casi todos los ordenadores venían con software propio e inamovible.
 
-La ventaja que tiene es que es un lenguaje muy sencillo de entender gracias a la 
-gran similitud con el ingles y sencilla sintáxis.
+La ventaja que tiene es que es un lenguaje muy sencillo de entender gracias a la gran similitud con el ingles y sencilla sintáxis, siendo compuesto por 2 lenguajes diferentes: FORTRAN II y Algol 60, modificando su sintaxis para hacerlo más amigable. Por este mismo hecho es considerado como el sucesor de FORTRAN y COBOL.
+
+Debido a este hecho, evolucionó rápidamente hasta convertirse en uno de los lenguajes de programación más usado en los 80 (sobre todo gracias a que Microsoft lo usó mucho), y en la actualidad sigue estando muy presente con los sub-lenguajes creados a partir del mismo (Visual Basic.NET en Windows y GAMBAS en Linux).
 
 ## Herramientas de desarrollo
 
