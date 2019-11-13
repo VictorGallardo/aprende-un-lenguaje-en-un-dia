@@ -54,7 +54,8 @@ gran similitud con el ingles y sencilla sintáxis.
 
 ## Herramientas de desarrollo
 
-La herramienta que hemos usado para realizar los ejercicios es DecimalBasic.
+La herramienta que hemos usado para realizar los ejercicios es DecimalBasic, pero hemos pasado por muchas hasta llegar a esta que ha resultado ser la mejor y más estandar.
+![captura](https://github.com/VictorGallardo/aprende-un-lenguaje-en-un-dia/blob/master/Capturas/Decimalbasic.png)
 
 ## Poniendo en práctica el lenguaje
 
